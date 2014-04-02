@@ -9,3 +9,4 @@
 	- section 3. **more instruction**. floating point, MMX, SSE, AVX, FMA3, FMA4, 3DNow!
 	- section 4. **advanced topic**. bootloader, interrupts, protected mode, GDT, interfacing with C/C++.
 	- section 5. **hardware**. basic x86 computer architecture, etc. 
+	- section 6. **Embedding and interoperability**. Calling Conventions, interfacing with WinAPI, Linux.
